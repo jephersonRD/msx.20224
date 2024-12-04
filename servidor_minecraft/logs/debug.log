@@ -468,3 +468,44 @@
 [04Dec2024 20:38:48.296] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [04Dec2024 20:40:44.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made jephersonRD a server operator
 [04Dec2024 20:40:52.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [jephersonRD: Set own game mode to Creative Mode]
+[04Dec2024 20:43:17.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jephersonRD has reached the goal [Sky's the Limit]
+[04Dec2024 20:43:48.703] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[04Dec2024 20:43:48.707] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[04Dec2024 20:43:48.716] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: jephersonRD moved too quickly! 17.531227661134835,-0.32219684548296357,4.700284086559236
+[04Dec2024 20:46:00.763] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: jephersonRD lost connection: Disconnected
+[04Dec2024 20:46:00.763] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jephersonRD left the game
+[04Dec2024 20:46:15.945] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[04Dec2024 20:46:15.946] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[04Dec2024 20:46:15.946] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split_11' : Vanilla acceptance test: ACCEPTED
+[04Dec2024 20:46:15.946] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[04Dec2024 20:46:15.946] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[04Dec2024 20:46:15.946] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[04Dec2024 20:46:15.946] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[04Dec2024 20:46:15.946] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[04Dec2024 20:46:15.946] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Starting new vanilla network connection.
+[04Dec2024 20:46:15.955] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[04Dec2024 20:46:16.020] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@54c32b97
+[04Dec2024 20:46:16.028] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: jephersonRD[/127.114.52.69:39753] logged in with entity id 4975 at (1832.2326919206769, 80.0, -391.7990999972654)
+[04Dec2024 20:46:16.029] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.VanillaConnectionNetworkFilter@5bbec666 into net.minecraft.network.NetworkManager@4c979a6e
+[04Dec2024 20:46:16.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jephersonRD joined the game
+[04Dec2024 20:46:34.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [jephersonRD: Stopping the server]
+[04Dec2024 20:46:34.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Dec2024 20:46:34.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Dec2024 20:46:34.510] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: jephersonRD lost connection: Server closed
+[04Dec2024 20:46:34.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jephersonRD left the game
+[04Dec2024 20:46:34.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Dec2024 20:46:34.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04Dec2024 20:46:35.374] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Dec2024 20:46:35.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04Dec2024 20:46:35.375] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Dec2024 20:46:35.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04Dec2024 20:46:35.377] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Dec2024 20:46:35.377] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[04Dec2024 20:46:35.381] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[04Dec2024 20:46:35.391] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Dec2024 20:46:35.409] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Dec2024 20:46:35.409] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Dec2024 20:46:35.411] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[04Dec2024 20:46:35.411] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[04Dec2024 20:46:35.412] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file forge-server.toml changed, sending notifies
+[04Dec2024 20:46:35.412] [Thread-0/DEBUG] [net.minecraftforge.common.ForgeConfig/FORGEMOD]: Forge config just got changed on the file system!

@@ -112,3 +112,25 @@
 [04Dec2024 20:35:57.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jephersonRD joined the game
 [04Dec2024 20:40:44.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made jephersonRD a server operator
 [04Dec2024 20:40:52.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [jephersonRD: Set own game mode to Creative Mode]
+[04Dec2024 20:43:17.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jephersonRD has reached the goal [Sky's the Limit]
+[04Dec2024 20:43:48.716] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: jephersonRD moved too quickly! 17.531227661134835,-0.32219684548296357,4.700284086559236
+[04Dec2024 20:46:00.763] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: jephersonRD lost connection: Disconnected
+[04Dec2024 20:46:00.763] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jephersonRD left the game
+[04Dec2024 20:46:16.020] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@54c32b97
+[04Dec2024 20:46:16.028] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: jephersonRD[/127.114.52.69:39753] logged in with entity id 4975 at (1832.2326919206769, 80.0, -391.7990999972654)
+[04Dec2024 20:46:16.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jephersonRD joined the game
+[04Dec2024 20:46:34.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [jephersonRD: Stopping the server]
+[04Dec2024 20:46:34.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Dec2024 20:46:34.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Dec2024 20:46:34.510] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: jephersonRD lost connection: Server closed
+[04Dec2024 20:46:34.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jephersonRD left the game
+[04Dec2024 20:46:34.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Dec2024 20:46:34.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04Dec2024 20:46:35.374] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Dec2024 20:46:35.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04Dec2024 20:46:35.375] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Dec2024 20:46:35.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04Dec2024 20:46:35.377] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Dec2024 20:46:35.391] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Dec2024 20:46:35.409] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Dec2024 20:46:35.409] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
